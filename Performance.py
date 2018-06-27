@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 for iteration in range(10):
     
-    runfile('/home/jinsung/Documents/Jinsung/2018_Research/KDD/Synthetic_Main.py', wdir='/home/jinsung/Documents/Jinsung/2018_Research/KDD')
+#    runfile('/home/jinsung/Documents/Jinsung/2018_Research/KDD/Synthetic_Main.py', wdir='/home/jinsung/Documents/Jinsung/2018_Research/KDD')
     runfile('/home/jinsung/Documents/Jinsung/2018_Research/KDD/Synthetic_Main_Final.py', wdir='/home/jinsung/Documents/Jinsung/2018_Research/KDD')
     
     # Data Loading
