@@ -5,4 +5,4 @@ Title: Measuring the quality of Synthetic data for use in competitions
 
 Authors: James Jordon, Jinsung Yoon, Mihaela van der Schaar
 
-link:
+link: https://arxiv.org/abs/1806.11345
